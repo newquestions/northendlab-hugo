@@ -20,8 +20,4 @@ Above Paragraph, you see SERP or Keywords that are common SEO Term so Before sta
 * Algorithm Refresh: Search engine operator after a regular interval re-run the existing algorithm to find out the new spammer.
 * New Algorithm: Improving search quality google and other search engines regularly bringing new algorithms. All new algorithm has its special purpose to serve in the total search engine working process.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-
-  <iframe src="[https://player.vimeo.com/video/317654475](https://player.vimeo.com/video/317654475 "https://player.vimeo.com/video/317654475")" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
- </div>
+{{< youtube w7Ft2ymGmfc >}}
