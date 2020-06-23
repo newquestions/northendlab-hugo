@@ -1,4 +1,4 @@
-baseURL = "https://newquestions.netlify.com"
+baseURL = "https://newquestions.netlify.com/"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
