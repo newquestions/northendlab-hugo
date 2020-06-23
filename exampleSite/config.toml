@@ -38,15 +38,13 @@ image = "images/banner/illustration.svg"
 title = "Custom Algorithm Design<br> The search for alpha ..."
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
-enable = true
+enable = false
 image = "images/hugo-muscot.svg"
 title = "Get the best hugo templates"
 [params.cta.button]
 enable = true
 label = "Visit Here"
 link = "https://gethugothemes.com/shop/"
-[[params.plugins.css]]
-link = "scss/style.min.css"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -62,10 +60,10 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [params.search]
-enable = true
+enable = false
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
