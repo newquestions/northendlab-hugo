@@ -18,11 +18,3 @@ fields:
   name: type
   label: type
   default: post
-- type: datetime
-  name: date
-  label: date
-  default: now
-  hidden: false
-- type: text
-  name: author
-  label: author
