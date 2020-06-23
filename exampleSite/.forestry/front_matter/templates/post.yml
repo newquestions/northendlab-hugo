@@ -5,17 +5,9 @@ fields:
 - type: text
   name: title
   label: title
-- type: datetime
-  name: date
-  label: date
-  default: now
-  hidden: true
 - type: file
   name: image
   label: image
-- type: text
-  name: author
-  label: author
 - type: text
   name: description
   label: description
@@ -26,3 +18,11 @@ fields:
   name: type
   label: type
   default: post
+- type: datetime
+  name: date
+  label: date
+  default: now
+  hidden: true
+- type: text
+  name: author
+  label: author
