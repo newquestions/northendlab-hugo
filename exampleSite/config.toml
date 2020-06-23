@@ -46,6 +46,8 @@ enable = true
 label = "Visit Here"
 link = "https://gethugothemes.com/shop/"
 [[params.plugins.css]]
+link = "scss/style.min.css"
+[[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
