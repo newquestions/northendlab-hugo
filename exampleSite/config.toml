@@ -35,7 +35,7 @@ logo = "images/logo2.jpg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Custom Algorithm Design<br> In search of more alpha ..."
+title = "Custom Algorithm Design<br> In search of rare alpha ..."
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
