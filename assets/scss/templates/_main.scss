@@ -8,7 +8,8 @@
   padding: 220px 0 120px;
   position: relative;
   @include desktop-lg {
-    padding: 150px 0 100px;
+/*padding: 150px 0 100px;*/
+  padding: 15px 0 100px;
   }
   @include desktop {
     padding: 100px 0 0;
@@ -36,7 +37,7 @@
 /* blog */
 .block {
 /*padding: 60px 60px 40px; */
-  padding: 10px 60px 40px;
+  padding: 60px 60px 40px;
 }
 
 .author-thumb{
