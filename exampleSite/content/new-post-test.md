@@ -1,7 +1,6 @@
 +++
 categories = ["This is the category"]
 description = "This is the description field"
-draft = true
 image = "/images/tools/SEO.jpg"
 title = "New Post Test"
 type = "post"
