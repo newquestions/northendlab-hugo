@@ -11,9 +11,6 @@ fields:
 - type: text
   name: description
   label: description
-- type: list
-  name: categories
-  label: categories
 - type: text
   name: type
   label: type
