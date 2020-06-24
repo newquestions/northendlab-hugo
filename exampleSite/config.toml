@@ -2,7 +2,7 @@ baseURL = "/"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = "10"
-summaryLength = "30"
+summaryLength = "20"
 theme = "northendlab-hugo"
 title = "New Questions"
 [[menu.footer]]
