@@ -5,14 +5,14 @@
 
 /* banner */
 .banner {
-  padding: 220px 0 120px;
+/*padding: 220px 0 120px;*/
+  padding: 22px 0 12px;
   position: relative;
   @include desktop-lg {
   padding: 150px 0 100px;
   }
   @include desktop {
-/*  padding: 100px 0 0;*/
-    padding: 10px 0 0;
+    padding: 100px 0 0;
   }
 
   .illustration {
