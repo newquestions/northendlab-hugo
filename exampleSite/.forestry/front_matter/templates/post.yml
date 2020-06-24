@@ -17,3 +17,4 @@ fields:
   default: post
 pages:
 - exampleSite/content/new-post-test.md
+- exampleSite/content/yet-another.md
