@@ -4,7 +4,7 @@ categories = ["Meta Data"]
 date = ""
 description = ""
 image = ""
-title = "Vimeo page"
+title = "Vimeo Page"
 type = "post"
 
 +++
