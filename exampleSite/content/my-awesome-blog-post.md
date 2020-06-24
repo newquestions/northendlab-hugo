@@ -2,7 +2,7 @@
 author = "JPR"
 categories = ["Meta Data"]
 date = ""
-description = "This is where the description field appears ... hopefully above the video itself."
+description = ""
 image = ""
 title = "Video based landing page"
 type = "post"
