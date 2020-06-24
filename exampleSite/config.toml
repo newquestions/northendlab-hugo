@@ -1,8 +1,8 @@
 baseURL = "/"
 disqusShortname = ""
 languageCode = "en-us"
-paginate = "1"
-summaryLength = "10"
+paginate = "10"
+summaryLength = "30"
 theme = "northendlab-hugo"
 title = "New Questions"
 [[menu.footer]]
@@ -35,7 +35,7 @@ logo = "images/nq.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "<i>Algorithm Design</i> ...<br>The search for alpha"
+title = "<i>Algorithm Design ...</i><br>The search for alpha"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = false
@@ -60,10 +60,10 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [params.preloader]
-enable = false
+enable = true
 preloader = ""
 [params.search]
-enable = false
+enable = true
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
