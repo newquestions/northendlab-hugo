@@ -1,7 +1,7 @@
 +++
 description = ""
 image = ""
-title = "Raw Text Page"
+title = "Raw Page"
 type = "post"
 
 +++
