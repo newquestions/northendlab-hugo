@@ -5,8 +5,6 @@ title = "Test LP"
 type = "post"
 
 +++
-{{< vimeo 317654475 >}}
-
 # This is my headline section
 
 Are you Developer and recently started your own business and Already made a website to ensure online presence and wants to reach more people. but you are not getting as much as response from your targeted customer or you are unable to reach them. SEO(Search engine optimization)is the cheapest way to reach your customer or client. After 2000 the Internet is more easy access to common people and most of the netizens to find out information search on google/yahoo/bing like a search engine. So if your site ranks at the top of the SERP for your target keywords then sure you will get more valuable traffic to your site and it will help you a lot to grow your business.
@@ -20,5 +18,3 @@ Above Paragraph, you see SERP or Keywords that are common SEO Term so Before sta
 * Algorithm Update: Search Engines regularly making minor changes in their system they normally don’t give an official announcement. But SEO related blogs and journals give the news what the changes made. So Keep update regular visit this industry-related community is important. And when the Major update come You must observe your ranking behavior and if you find you've got the penalty then quickly take necessary step undereating the guidelines given by search engine company.
 * Algorithm Refresh: Search engine operator after a regular interval re-run the existing algorithm to find out the new spammer.
 * New Algorithm: Improving search quality google and other search engines regularly bringing new algorithms. All new algorithm has its special purpose to serve in the total search engine working process.
-
-{{< youtube w7Ft2ymGmfc >}}
