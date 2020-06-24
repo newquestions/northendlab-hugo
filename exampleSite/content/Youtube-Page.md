@@ -1,7 +1,7 @@
 +++
 description = ""
 image = ""
-title = "Youtube based page"
+title = "Youtube page"
 type = "post"
 
 +++
