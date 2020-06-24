@@ -18,3 +18,5 @@ fields:
   name: type
   label: type
   default: post
+pages:
+- exampleSite/content/new-post-test.md
