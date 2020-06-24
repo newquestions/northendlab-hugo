@@ -1,7 +1,7 @@
 +++
 author = "John Doe"
 categories = ["SEO Learning"]
-date = 2019-11-07T05:00:00Z
+date = "2019-11-07T05:00:00.000+00:00"
 description = "This is meta description"
 image = "/images/post/post-3.jpg"
 title = "My awesome blog post"
