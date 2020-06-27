@@ -76,3 +76,5 @@ link = "#"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
+[markup.goldmark.renderer]
+unsafe = true
