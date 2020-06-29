@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 image = ""
 title = "This is the headline"
 type = "post"
