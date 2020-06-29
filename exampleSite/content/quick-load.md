@@ -1,6 +1,6 @@
 +++
 description = ""
-image = "/images/tv_lp_hero.jpg"
+image = ""
 title = ""
 type = "post"
 
