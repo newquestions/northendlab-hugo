@@ -3,6 +3,7 @@ author = "JPR"
 categories = ["Meta Data"]
 date = ""
 description = ""
+draft = true
 image = ""
 title = "Vimeo Page"
 type = "post"
