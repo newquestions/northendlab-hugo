@@ -1,7 +1,7 @@
 +++
 description = ""
 image = ""
-title = "\"Free 1-Page Summary with 50+ Years of Rare Trading Tips, Highly Unusual Methods, Market-Beating Ideas & more!\""
+title = ""
 type = "post"
 
 +++
