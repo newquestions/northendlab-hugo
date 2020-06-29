@@ -55,7 +55,7 @@ function ml_webform_success_2267083(){var r=ml_jQuery||jQuery;r(".ml-subscribe-f
 
 ![](/images/tradingview.jpg)
 
-## Pretty nice load times ...
+### Benefits of TradingView ...
 
 Above Paragraph, you see SERP or Keywords that are common SEO Term so Before starting learning SEO let's learn the term used by the SEO expert. It will smoothen your learning journey. Or if you are wishing to hire an SEO guy it will help you his task he/she doing and understand he/she going on the right path. So not making delay let dive…
 
