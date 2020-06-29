@@ -9,6 +9,8 @@ type = "post"
 
 ![](/images/tv_lp_hero2.jpg)
 
+**Algorithm:** “Algorithm is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.” It is its definition. 
+
 <style type="text/css">
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic);
 </style>
