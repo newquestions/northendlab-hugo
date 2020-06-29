@@ -1,13 +1,12 @@
 +++
 description = ""
-image = "/images/tools/illustrator.png"
+image = ""
 title = ""
 type = "post"
 
 +++
-<div style="text-align:center">
 ### “Free 1-Page Summary with 50+ Years of Rare Trading Tips, Highly Unusual Methods, Market-Beating Ideas & more!”
-</div>
+
 ![](/images/tv_lp_hero2.jpg)
 
 <style type="text/css">
