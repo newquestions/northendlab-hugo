@@ -1,10 +1,12 @@
 +++
 description = ""
 image = ""
-title = "Free 1-Page Summary with 50+ Years of Rare Trading Tips, Highly Unusual Methods, Market-Beating Ideas & more!"
+title = ""
 type = "post"
 
 +++
+### “Free 1-Page Summary with 50+ Years of Rare Trading Tips, Highly Unusual Methods, Market-Beating Ideas & more!”
+
 ![](/images/tv_lp_hero2.jpg)
 
 **Algorithm:** “Algorithm is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.” It is its definition.
