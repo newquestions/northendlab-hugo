@@ -3,6 +3,7 @@ author = "John Doe"
 categories = ["Design Tools"]
 date = "2019-11-07T05:00:00.000+00:00"
 description = ""
+draft = true
 image = "/images/post/post-2.jpg"
 title = "Image Page"
 type = "post"
