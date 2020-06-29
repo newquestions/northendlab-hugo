@@ -5,11 +5,12 @@ title = ""
 type = "post"
 
 +++
-### “Free 1-Page Summary with 50+ Years of Rare Trading Tips, Highly Unusual Methods, Market-Beating Ideas & more!”
-
+<div align="center">
+  ### “Free 1-Page Summary with 50+ Years of Rare Trading Tips, Highly Unusual Methods, Market-Beating Ideas & more!”
+<div align="/center">
 ![](/images/tv_lp_hero2.jpg)
 
-**Algorithm:** “Algorithm is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.” It is its definition. 
+**Algorithm:** “Algorithm is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.” It is its definition.
 
 <style type="text/css">
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic);
