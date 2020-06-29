@@ -5,9 +5,9 @@ title = ""
 type = "post"
 
 +++
-## “Free 1-Page Summary with 50+ Years of Rare Trading Tips, Highly Unusual Methods, Market-Beating Ideas & more!”
+### “Free 1-Page Summary with 50+ Years of Rare Trading Tips, Highly Unusual Methods, Market-Beating Ideas & more!”
 
-h
+![](/images/tv_lp_hero.jpg)
 
 <style type="text/css">
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic);
