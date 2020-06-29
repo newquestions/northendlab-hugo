@@ -5,7 +5,7 @@ title = ""
 type = "post"
 
 +++
-# “Free 1-Page Summary with 50+ Years of Rare Trading Tips, Highly Unusual Methods, Market-Beating Ideas & more!”
+## “Free 1-Page Summary with 50+ Years of Rare Trading Tips, Highly Unusual Methods, Market-Beating Ideas & more!”
 
 Are you Developer and recently started your own business and Already made a website to ensure online presence and wants to reach more people.
 
