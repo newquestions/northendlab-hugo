@@ -5,6 +5,8 @@ paginate = "10"
 summaryLength = "20"
 theme = "northendlab-hugo"
 title = "New Questions"
+[markup.goldmark.renderer]
+unsafe = true
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
@@ -32,6 +34,7 @@ google_analitycs_id = ""
 google_tag_manager = ""
 home = "Home"
 logo = "images/nq.png"
+social = []
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
@@ -63,18 +66,4 @@ link = "plugins/search/search.js"
 enable = false
 preloader = ""
 [params.search]
-enable = true
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[markup.goldmark.renderer]
-unsafe = true
+enable = false
