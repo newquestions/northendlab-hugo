@@ -1,7 +1,7 @@
 +++
 description = ""
 image = ""
-title = ""
+title = "This is where the title appears"
 type = "post"
 
 +++
