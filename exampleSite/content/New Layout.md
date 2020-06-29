@@ -5,10 +5,14 @@ title = ""
 type = "post"
 
 +++
+<p class="text-center">
 ### “Free 1-Page Summary with 50+ Years of Rare Trading Tips, Highly Unusual Methods, Market-Beating Ideas & more!”
+</p>
 
+<p align="center">
 ![](/images/tv_lp_hero2.jpg)
-
+</p>
+  
 <style type="text/css">
   @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic);
 </style>
