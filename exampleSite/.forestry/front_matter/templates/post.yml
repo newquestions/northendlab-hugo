@@ -16,6 +16,7 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/New Layout.md
 - exampleSite/content/Text-Page.md
 - exampleSite/content/Youtube-Page.md
 - exampleSite/content/embed.md
