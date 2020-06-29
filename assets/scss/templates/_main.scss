@@ -5,16 +5,13 @@
 
 /* banner */
 .banner {
-/*This manipulates the position of the words in the header section*/
   padding: 220px 0 120px;
   position: relative;
   @include desktop-lg {
-  padding: 150px 0 100px;
-
+    padding: 150px 0 100px;
   }
   @include desktop {
-  padding: 100px 0 0;
-
+    padding: 100px 0 0;
   }
 
   .illustration {
