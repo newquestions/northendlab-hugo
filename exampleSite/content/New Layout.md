@@ -1,7 +1,7 @@
 +++
-description = ""
+description = "TradingView Offer Description"
 image = ""
-title = ""
+title = "TradingView Offer"
 type = "post"
 
 +++
