@@ -5,7 +5,9 @@ title = "TradingView Offer"
 type = "post"
 
 +++
-### “Free 1-Page Summary with 50+ Years of Rare Trading Tips”
+<div align="center">
+  ### “Free 1-Page Summary with 50+ Years of Rare Trading Tips”
+</div>
 
 ![](/images/trading-view-image.jpg)<style type="text/css">
   
