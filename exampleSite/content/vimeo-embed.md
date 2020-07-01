@@ -1,6 +1,5 @@
 +++
-description = "TradingView Offer Description"
-draft = true
+description = "Vimeo Page Meta description"
 image = ""
 title = "Vimeo Embed"
 type = "post"
@@ -8,7 +7,7 @@ type = "post"
 +++
 ### “Free 1-Page Summary Reveals 50+ Years of Rare Trading Tips”
 
-![](/images/trading-view-image.jpg)<style type="text/css">
+{{< vimeo https://vimeo.com/65107797 >}}
   
 <style type="text/css">
   @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic);
