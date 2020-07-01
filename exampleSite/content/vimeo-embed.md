@@ -7,7 +7,7 @@ type = "post"
 +++
 ### “Free 1-Page Summary Reveals 50+ Years of Rare Trading Tips That Will Boost Your Profit Rates”
 
-{{< vimeo https://vimeo.com/65107797 >}}
+{{< vimeo 65107797 >}}
 
 <style type="text/css">
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic);
