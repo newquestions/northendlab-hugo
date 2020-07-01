@@ -11,7 +11,7 @@ type = "post"
 
 <div class="ml-form-embed"
   data-account="959240:j1x3v8a7t8"
-  data-form="2275093:e2n4n3">
+  data-form="2275101:o0r9u4">
 </div>
 
 ### Benefits of TradingView ...
